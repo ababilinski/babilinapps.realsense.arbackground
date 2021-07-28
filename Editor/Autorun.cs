@@ -89,7 +89,7 @@ namespace BabilinApps.RealSense.Downloader.Editor
         {
           
             var editorIsBusy = (AssetDatabase.IsAssetImportWorkerProcess() || EditorApplication.isCompiling || EditorApplication.isUpdating);
-            Debug.Log("editorIsBusy: " + editorIsBusy);
+       
             if (editorIsBusy)
             {
                 return;
