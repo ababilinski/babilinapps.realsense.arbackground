@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Adrian Babilinski",
+    "url": "https://ababilinski.github.io/"
+  },
+  "dependencies": {
+    "com.unity.render-pipelines.core": "10.1.0",
+    "com.unity.render-pipelines.universal": "10.1.0"
+},
+  "description": "This package contains all the required components to update the RealSense AR Background Demo to Unity's Universal Render Pipeline. ",
+  "displayName": "AR Background for RealSense",
+  "keywords": [
+    "Symbols",
+    "Defines"
+  ],
+  "license": "MIT",
+  "name": "com.babilinapps.realsense.arbackground",
+  "unity": "2020.1",
+  "version": "1.0.0"
+}
