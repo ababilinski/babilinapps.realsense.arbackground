@@ -1,14 +1,12 @@
 {
-    "name": "BabilinApps.RealSense.Downloader.Editor",
+    "name": "BabilinApps.RealSense.ARBackground.Runtime",
     "rootNamespace": "",
     "references": [
+        "GUID:013d31ba725d57441b37057eb0e5963e",
         "GUID:df380645f10b7bc4b97d4f5eb6303d95",
-        "GUID:15fc0a57446b3144c949da3e2b9737a9",
-        "GUID:013d31ba725d57441b37057eb0e5963e"
+        "GUID:15fc0a57446b3144c949da3e2b9737a9"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

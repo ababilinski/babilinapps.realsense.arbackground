@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEngine;
 
 
-namespace BabilinApps.RealSense.Downloader.Editor
+namespace BabilinApps.RealSense.ARBackground.Editor
 {
 
     /// <summary>
@@ -95,8 +95,9 @@ namespace BabilinApps.RealSense.Downloader.Editor
                 return;
             }
 
-            AskToDownload();
             EditorApplication.update -= OnEditorApplicationUpdate;
+            AskToDownload();
+            
         }
 
         static void AskToDownload()

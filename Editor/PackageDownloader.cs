@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 
 
-namespace BabilinApps.RealSense.Downloader.Editor
+namespace BabilinApps.RealSense.ARBackground.Editor
 {
 /// <summary>
 /// Unofficial Package Downloader - that downloads the official RealSense asset package from github 

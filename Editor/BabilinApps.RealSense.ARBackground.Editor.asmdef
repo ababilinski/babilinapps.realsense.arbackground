@@ -1,5 +1,5 @@
 {
-    "name": "BabilinApps.RealSense.ARBackground.Runtime",
+    "name": "BabilinApps.RealSense.ARBackground.Editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [

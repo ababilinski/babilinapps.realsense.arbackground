@@ -1400,8 +1400,8 @@ GameObject:
   - component: {fileID: 1568271679}
   - component: {fileID: 1568271678}
   - component: {fileID: 1568271677}
-  - component: {fileID: 1568271681}
   - component: {fileID: 1568271682}
+  - component: {fileID: 1568271681}
   m_Layer: 0
   m_Name: Camera
   m_TagString: MainCamera
@@ -1495,7 +1495,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab85129d6ab9eae4aa6773f7276abff1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Source: {fileID: 114866817790844353}
+  Source: {fileID: 114785398870593136}
   BackgroundMaterial: {fileID: 2100000, guid: 6e1f5e9643df5bb4bb6205cfa99759a7, type: 2}
 --- !u!114 &1568271682
 MonoBehaviour:
